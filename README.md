@@ -1,3 +1,3 @@
 # Atman
 
-Atman comes from the Sanskrit -- it refers to the true self of each individual, seperate from all other distractions. 
+Atman refers to the true self of something, seperate from all other distractions. 
